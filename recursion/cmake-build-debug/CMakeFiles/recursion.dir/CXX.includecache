@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/b1essing/Desktop/Dev/DsDaily/DsDaily/recursion/main.cpp
+iostream
+-
+stdlib.h
+-
+cmath
+-
+

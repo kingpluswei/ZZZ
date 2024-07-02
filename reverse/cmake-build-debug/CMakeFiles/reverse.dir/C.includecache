@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/b1essing/Desktop/Dev/DsDaily/DsDaily/reverse/library.c
+library.h
+/Users/b1essing/Desktop/Dev/DsDaily/DsDaily/reverse/library.h
+stdio.h
+-
+
+/Users/b1essing/Desktop/Dev/DsDaily/DsDaily/reverse/library.h
+
